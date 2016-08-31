@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./sp-omp 24 ../../inputs/random-42000-10000-5.cnf 5

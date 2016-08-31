@@ -1,0 +1,2 @@
+echo "./sp-omp 24 ../../inputs/random-16800-4000-3.cnf 3"
+./sp-omp 24 ../../inputs/random-16800-4000-3.cnf 3

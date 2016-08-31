@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "./sp-omp 24 ../../inputs/random-42000-10000-3.cnf 3"
+./sp-omp 24 ../../inputs/random-42000-10000-3.cnf 3

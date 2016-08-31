@@ -1,0 +1,7 @@
+#!/bin/bash
+EXE=mst-omp
+LSGINPUTS=../../inputs
+NUM_THREADS=4
+
+echo "./$EXE $NUM_THREADS $LSGINPUTS/USA-road-d.FLA.sym.gr"
+./$EXE $NUM_THREADS $LSGINPUTS/USA-road-d.FLA.sym.gr 

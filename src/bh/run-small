@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "./bh-omp 30000 1 0 24 #(small)"
+./bh-omp 30000 1 0 24 #(small)

@@ -1,0 +1,9 @@
+CXX=g++ 
+CXX_FLAGS=-O3 -fopenmp -DENABLE_OPENMP
+SRC=main.cc
+EXE=sssp-omp
+INC=-I../../include
+
+all:
+	$(CXX) $(CXX_FLAGS) $(INC) -DVARIANT=0 $(SRC) -o $(EXE)
+	mv $(EXE) ../../bin

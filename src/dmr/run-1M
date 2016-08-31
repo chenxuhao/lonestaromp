@@ -1,0 +1,6 @@
+#!/bin/bash
+EXE=dmr-omp
+NUM_THREADS=24
+LSGINPUTS=../../inputs
+
+./$EXE $NUM_THREADS $LSGINPUTS/r1M 20

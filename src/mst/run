@@ -1,0 +1,8 @@
+#!/bin/bash
+EXE=mst-s
+LSGINPUTS=../../inputs
+NUM_THREADS=16
+echo "./$EXE $NUM_THREADS $LSGINPUTS/rmat12.sym.gr"
+./$EXE $NUM_THREADS $LSGINPUTS/rmat12.sym.gr 
+#./$EXE $NUM_THREADS $LSGINPUTS/USA-road-d.FLA.sym.gr 
+#./$EXE $NUM_THREADS $LSGINPUTS/2d-2e20.sym.gr 

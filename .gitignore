@@ -1,0 +1,9 @@
+*~
+*.DS_Store
+*.log
+*.out
+*.o
+*.d
+*.swp
+bin/*
+input/*
