@@ -1,7 +1,6 @@
 # LonestarOMP
-===================
 
-Copyright 2018 Xuhao Chen, National University of Defense Technology
+Copyright 2016 [Xuhao Chen](https://chenxuhao.github.io), National University of Defense Technology
 
 OpenMP version of Lonestar benchmarks
 
